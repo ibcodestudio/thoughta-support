@@ -1,6 +1,6 @@
-# Thoughta – App Support
+# Cardova – App Support
 
-Thanks for using **Thoughta**!  
+Thanks for using **Cardova**!  
 If you have questions, feedback, or encounter any issues, feel free to reach out:
 
 ✉️ ibcodestudio@gmail.com  
